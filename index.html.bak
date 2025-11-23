@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<title>頁面轉向中...</title>
+<meta http-equiv="refresh" content="0; url=index.htm">
+</head>
+<body>
+<p>正在將您導向至 <a href="index.htm">index.htm</a>...</p>
+</body>
+</html>
